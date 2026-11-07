@@ -1,0 +1,7 @@
+[project]
+name = "hijri-py-astrolabe-stereographic"
+version = "1.0.0"
+description = "Planispheric Astrolabe Stereographic Projection (Safihah, Almucantars & Ankabout) (محرك الإسقاط الستيريوغرافي للإسطرلاب الفلكي الإسلامي)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
